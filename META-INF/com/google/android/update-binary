@@ -16,11 +16,6 @@ require_new_magisk() {
   exit 1
 }
 
-is_legacy_script(){
-  unzip -l "ZIPFILE" install.sh | grep -q install.sh
-  return $?
-}
-
 OUTFD=$2
 ZIPFILE=$3
 
