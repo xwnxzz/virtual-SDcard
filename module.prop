@@ -1,0 +1,6 @@
+id=virtual-SDcard
+name=virtual-SDcard
+version=0
+versionCode=0
+author=识海莹星科技工作室
+description=挂载文件夹当虚拟sd卡，刷之前自己去模块里改路径，否则刷不上。
