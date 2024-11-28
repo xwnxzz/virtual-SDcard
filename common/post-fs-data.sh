@@ -1,4 +1,6 @@
 #!/system/bin/sh
+sleep 15
+
 MODDIR=${0%/*}
 
 # 确保挂载点存在
